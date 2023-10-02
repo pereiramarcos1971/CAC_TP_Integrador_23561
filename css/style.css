@@ -1,0 +1,47 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#carouselTPIntegrador
+{
+   position: absolute; 
+
+    
+}
+
+#contenidoCarrusel
+{
+
+    position: relative; 
+    color: white;
+
+    text-align: right;
+}
+
+#tituloOradores
+{
+text-align: center;
+}
+
+#contenidoBuenosAires
+{
+    background-color:dimgrey;
+    color: white;
+
+}
+
+#navbarInferior
+{
+    margin: auto;    
+    text-decoration: none;
+}
+
+#PieDePagina
+{
+    background-color:#154360;
+    
+}
+
+
